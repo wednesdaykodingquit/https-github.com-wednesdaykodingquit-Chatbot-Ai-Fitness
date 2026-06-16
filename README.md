@@ -1,0 +1,2 @@
+# https-github.com-wednesdaykodingquit-Chatbot-Ai-Fitness
+This project focuses on developing an AI-powered personal fitness companion that operates locally without relying on a database. The application leverages Generative AI models to provide personalized fitness plans, diet recommendations, and a fitness chatbot for real-time guidance. The core functionality includes BMI-based fitness analysis, workout
